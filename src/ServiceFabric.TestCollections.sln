@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceFabric.TestCollections", "ServiceFabric.TestCollections\ServiceFabric.TestCollections.csproj", "{D08456E3-3BA4-42A3-A360-D695A6016D46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceFabric.TestCollections.Tests", "ServiceFabric.TestCollections.Tests\ServiceFabric.TestCollections.Tests.csproj", "{85460AE9-3865-4E0D-919F-E5F6574F2C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08456E3-3BA4-42A3-A360-D695A6016D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08456E3-3BA4-42A3-A360-D695A6016D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08456E3-3BA4-42A3-A360-D695A6016D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08456E3-3BA4-42A3-A360-D695A6016D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85460AE9-3865-4E0D-919F-E5F6574F2C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85460AE9-3865-4E0D-919F-E5F6574F2C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85460AE9-3865-4E0D-919F-E5F6574F2C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85460AE9-3865-4E0D-919F-E5F6574F2C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
