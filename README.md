@@ -4,7 +4,7 @@ Test implementations of Service Fabric Reliable Collections.
 
 Implements IReliableStateManagerReplica, ITransaction, IReliableDictionary, and IReliableQueue.
 
-The collections **maintin the same semantics*** as Service Fabric, including transaction commits and aborts, concurrency, and timeouts.
+The collections **maintin the same semantics** as Service Fabric, including transaction commits and aborts, concurrency, and timeouts.
 
 # NuGet
 

@@ -4,6 +4,7 @@
     <TargetFramework>net45</TargetFramework>
     <PlatformTarget>x64</PlatformTarget>
     <Version>2.4</Version>
+    <Authors>Eli Arbel</Authors>
     <PackageTags>ServiceFabric;Service;Fabric;Reliable Collections</PackageTags>
     <PackageProjectUrl>https://github.com/aelij/service-fabric-test-collections</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/aelij/service-fabric-test-collections/blob/master/LICENSE</PackageLicenseUrl>
